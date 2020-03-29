@@ -1,0 +1,15 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+Paginate = 12
+title = "Michael McCliment"
+theme = "ananke"
+
+[params]
+  favicon = "images/favicon-32.png"
+  github = "https://github.com/cornazano"
+  linkedin = "https://linkedin.com/in/michael-mccliment"
+  mainSections = []
+  twitter = "https://twitter.com/cornazano"
+
+[markup.goldmark.renderer]
+  unsafe = true
