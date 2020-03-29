@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://michaelmccliment.com/"
 languageCode = "en-us"
 Paginate = 12
 title = "Michael McCliment"
