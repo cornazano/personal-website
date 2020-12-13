@@ -35,7 +35,7 @@ Other materials:
 
 [Dr. Richard Cook](https://twitter.com/ri_cook)
 
-**Twitter thrads:**
+**Twitter threads:**
 [cornazano (me)](https://twitter.com/cornazano/status/1184503563201859585?s=20)
 
 **My livetweet contents**
@@ -68,7 +68,7 @@ Other materials:
 
 [Adrian Hornsby](https://twitter.com/adhorn)
 
-**Twitter thrads:**
+**Twitter threads:**
 [cornazano (me)](https://twitter.com/cornazano/status/1184513546480021504?s=20)
 
 **My livetweet contents**
@@ -99,7 +99,7 @@ Other materials:
 
 [Ronnie Chen](https://twitter.com/rondoftw)
 
-**Twitter thrads:**
+**Twitter threads:**
 [cornazano (me)](https://twitter.com/cornazano/status/1184528147309572096?s=20)
 
 **My livetweet contents**
@@ -136,7 +136,7 @@ Other materials:
 
 [Matt Davis](https://twitter.com/dtauvdiodr)
 
-**Twitter thrads:**
+**Twitter threads:**
 [cornazano (me)](https://twitter.com/cornazano/status/1184537072230715393?s=20)
 
 **My livetweet contents**
@@ -175,7 +175,7 @@ Other materials:
 
 [Michelle Brenner](https://twitter.com/michellelynneb)
 
-**Twitter thrads:**
+**Twitter threads:**
 [cornazano (me)](https://twitter.com/cornazano/status/1184568316083359744?s=20)
 
 **My livetweet contents**
@@ -196,7 +196,7 @@ Other materials:
 
 [Will Gallego](https://twitter.com/wcgallego)
 
-**Twitter thrads:**
+**Twitter threads:**
 [cornazano (me)](https://twitter.com/cornazano/status/1184578899432398849?s=20)
 
 **My livetweet contents**
@@ -264,7 +264,7 @@ Other materials:
 
 [Ryan Kitchens](https://twitter.com/this_hits_home)
 
-**Twitter thrads:**
+**Twitter threads:**
 [cornazano (me)](https://twitter.com/cornazano/status/1184594523919409155?s=20)
 
 **My livetweet contents**
@@ -300,7 +300,7 @@ Other materials:
 
 [Casey Rosenthal](https://twitter.com/caseyrosenthal)
 
-**Twitter thrads:**
+**Twitter threads:**
 [cornazano (me)](https://twitter.com/cornazano/status/1184865304901373952?s=20)
 
 **My livetweet contents**
@@ -341,7 +341,7 @@ Other materials:
 
 [Jabe Bloom](https://twitter.com/cyetain)
 
-**Twitter thrads:**
+**Twitter threads:**
 [cornazano (me)](https://twitter.com/cornazano/status/1184874176235966470?s=20)
 
 **My livetweet contents**
@@ -396,7 +396,7 @@ Other materials:
 
 [Rein Henrichs](https://twitter.com/reinh)
 
-**Twitter thrads:**
+**Twitter threads:**
 [cornazano (me)](https://twitter.com/cornazano/status/1184891581028978689?s=20)
 
 **My livetweet contents**
@@ -437,7 +437,7 @@ Other materials:
 
 [Marisa Grayson](https://twitter.com/MarisaGrayson)
 
-**Twitter thrads:**
+**Twitter threads:**
 [cornazano (me)](https://twitter.com/cornazano/status/1184901704468156416?s=20)
 
 **My livetweet contents**
@@ -480,7 +480,7 @@ Other materials:
 
 [Michael McCliment](https://twitter.com/cornazano)
 
-**Twitter thrads:**
+**Twitter threads:**
 [crayzeigh (Aaron)](https://twitter.com/crayzeigh/status/1184941444106088448?s=20)
 
 ## <a name="pond"></a> A Talk For Right Now: Resilience in the Face of Change
